@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakelholder Motivation"
+    id="id-fcceab75739d413088d0509e5803b9a7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b7a4951eb2b74bc4b3ec5b36dbbd7ecc">
+    <bounds
+        x="94"
+        y="46"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-d86ce63d2a82442fa61da7b32c32308a.xml#id-d86ce63d2a82442fa61da7b32c32308a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
